@@ -1,15 +1,15 @@
 namespace spring21_exam2_part3
 {
-    public class EconomyCar : Car
+    public class DeluxeVacation : Vacation
     {
         public override string GetDescription()
         {
-            return "Economy Car";
+            return "DeluxeVacation Vacation";
         }
 
         public override double GetCost()
         {
-            return 10000.00;
+            return 25000.00;
         }
     }
 }

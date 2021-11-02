@@ -11,3 +11,17 @@ C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\netcoreapp3.
 C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\netcoreapp3.1\spring21-exam2-part3.dll
 C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\netcoreapp3.1\spring21-exam2-part3.pdb
 C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\netcoreapp3.1\spring21-exam2-part3.genruntimeconfig.cache
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.csproj.AssemblyReference.cache
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.AssemblyInfoInputs.cache
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.AssemblyInfo.cs
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.csproj.CoreCompileInputs.cache
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.dll
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.pdb
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.exe
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.deps.json
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.runtimeconfig.json
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.runtimeconfig.dev.json
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.dll
+C:\Users\samth\source\repos\exam2-part3-kjprice1\bin\Debug\netcoreapp3.1\spring21-exam2-part3.pdb
+C:\Users\samth\source\repos\exam2-part3-kjprice1\obj\Debug\netcoreapp3.1\spring21-exam2-part3.genruntimeconfig.cache

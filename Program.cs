@@ -6,11 +6,11 @@ namespace spring21_exam2_part3
     {
         static void Main(string[] args)
         {
-            Car kia = new EconomyCar();
-            Console.WriteLine(kia.GetDescription() + " costs $" + kia.GetCost());
+            Vacation premiumVacation = new PremiumVacation();
+            Console.WriteLine(premiumVacation.GetDescription() + " costs $" + premiumVacation.GetCost());
 
-            Car bmw = new DeluxCar();
-            Console.WriteLine(bmw.GetDescription() + " costs $" + bmw.GetCost());
+            Vacation deluxeVacation = new DeluxeVacation();
+            Console.WriteLine(deluxeVacation.GetDescription() + " costs $" + deluxeVacation.GetCost());
         }
     }
 }

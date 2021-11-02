@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jslucas\\source\\repos\\mis321\\spring21-exam2-part3\\spring21-exam2-part3.csproj": {}
+    "C:\\Users\\samth\\source\\repos\\exam2-part3-kjprice1\\spring21-exam2-part3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jslucas\\source\\repos\\mis321\\spring21-exam2-part3\\spring21-exam2-part3.csproj": {
+    "C:\\Users\\samth\\source\\repos\\exam2-part3-kjprice1\\spring21-exam2-part3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jslucas\\source\\repos\\mis321\\spring21-exam2-part3\\spring21-exam2-part3.csproj",
+        "projectUniqueName": "C:\\Users\\samth\\source\\repos\\exam2-part3-kjprice1\\spring21-exam2-part3.csproj",
         "projectName": "spring21-exam2-part3",
-        "projectPath": "C:\\Users\\jslucas\\source\\repos\\mis321\\spring21-exam2-part3\\spring21-exam2-part3.csproj",
-        "packagesPath": "C:\\Users\\jslucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jslucas\\source\\repos\\mis321\\spring21-exam2-part3\\obj\\",
+        "projectPath": "C:\\Users\\samth\\source\\repos\\exam2-part3-kjprice1\\spring21-exam2-part3.csproj",
+        "packagesPath": "C:\\Users\\samth\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\samth\\source\\repos\\exam2-part3-kjprice1\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\jslucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\samth\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -57,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }
