@@ -1,0 +1,16 @@
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.csprojAssemblyReference.cache
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.AssemblyInfoInputs.cache
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.AssemblyInfo.cs
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.csproj.CoreCompileInputs.cache
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.exe
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.deps.json
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.runtimeconfig.json
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.runtimeconfig.dev.json
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.dll
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\ref\spring21-exam2-part3.dll
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\bin\Debug\net5.0\spring21-exam2-part3.pdb
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.dll
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\ref\spring21-exam2-part3.dll
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.pdb
+C:\Users\jslucas\source\repos\mis321\spring21-exam2-part3\obj\Debug\net5.0\spring21-exam2-part3.genruntimeconfig.cache
